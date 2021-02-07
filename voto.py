@@ -45,7 +45,8 @@ else:
 # #int:  inteiro/integer
 # idade = 29
 # # Ponto flutuante - floating point(f6
-# loat) - separado por ponto(.)
+# loat)2
+# - separado por ponto(.)
 # preco = 33.50
 # # str: - texto/string - vem de cadeia de caracteres(string[of characters])
 # mensagem = "o voto e obrigatorio"
@@ -68,9 +69,9 @@ else:
 
 # OPERACOES COM DADOS
 # print(4+7)
-# print(42 / 7)
-# print(42 % 5)  # para saber or resto
-# print(42 // 5)  # divisao por modulo
+# print(42 / 7)  #
+# print(42 % 5)  # para saber o resto da divisao - op. de modulo
+# print(42 // 5)  # saber a parte inteira da divisao
 
 # CONVERSAO DE TIPO DE DADOS
 # numero = '4'
