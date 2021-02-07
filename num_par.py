@@ -1,7 +1,7 @@
 num = input('Digite um numero: ')
 num = int(num)
 
-# saber o resto da divisao se for 0 e par
+# saber o resto da divisao, se for 0 e par
 divisao = num % 2
 
 if divisao == 0:
